@@ -1,4 +1,4 @@
-# Real-time-Exercise-Tracker
+# Exercise Tracker and Counter using MediaPipe and OpenCV
 import cv2
 import mediapipe as mp
 import numpy as np
